@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Tomoro Coffee is a coffee brand that has the spirit and purpose of serving the best coffee at an affordable price for coffee lovers.
 </div>
 
 <br />
