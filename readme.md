@@ -76,9 +76,7 @@ Guiding Question:
 - Transactional
 
 ### Technology
-HTML, JS
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
@@ -130,3 +128,9 @@ WD-ProjectName
 |-|-|-|
 | Testimonials | For about us page | (https://readymadeui.com/tailwind-blocks/testimonials)  |
 |-|-|-|
+| Footer | for footer on contact page | https://readymadeui.com/tailwind-components/footer |
+|-|-|-|
+| Header | for header | (https://readymadeui.com/tailwind-components/header) |
+|-|-|-|
+| Product List | for menu page | (https://readymadeui.com/tailwind-ecommerce/product-list) |
+
