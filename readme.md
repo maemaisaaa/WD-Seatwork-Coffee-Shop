@@ -63,10 +63,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: This project is to redesign the website of TOMORO COFFEE.
+- Whats the purpose: The purpose of this project is to make it easier for users to get information about what products TOMORO COFFEE offers.
+- What are key components: The key components are Home, Menu, About, Contact.
+- What technology used and how it is used: The technology used for this project are HTML & JS.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -76,7 +76,7 @@ Guiding Question:
 - Transactional
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+HTML, JS
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -118,6 +118,15 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
+| Product Quickviews | Products overview | [Link](https://tailwindui.com/components/ecommerce/components/product-quickviews) |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Feature Sections | For about us page | (https://tailwindui.com/components/marketing/sections/feature-sections) |
+|-|-|-|
+| Banner | For home page | (https://readymadeui.com/tailwind-blocks/banner) |
+|-|-|-|
+| Content Section | For home page | https://readymadeui.com/tailwind-blocks/content-section  |
+|-|-|-|
+| Hero Section | for home page | https://readymadeui.com/tailwind-blocks/hero-section |
+|-|-|-|
+| Testimonials | For about us page | (https://readymadeui.com/tailwind-blocks/testimonials)  |
+|-|-|-|
